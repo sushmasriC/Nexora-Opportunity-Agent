@@ -1,0 +1,25 @@
+python-dotenv==1.0.0
+cohere==4.37
+sendgrid==6.10.0
+requests==2.31.0
+langchain==0.1.0
+langchain-community==0.0.10
+pydantic>=2.5.0
+pydantic-settings>=2.0.0
+typing-extensions==4.8.0
+scikit-learn>=1.0.0
+apify-client==1.7.0
+redis==5.0.1
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+sqlalchemy==2.0.23
+apscheduler==3.10.4
+# Web scraping dependencies
+beautifulsoup4==4.12.2
+selenium==4.15.2
+requests-html==0.10.0
+lxml==4.9.3
+fake-useragent==1.4.0
